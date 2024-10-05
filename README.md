@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects.
-- 📫 How to reach me: cedricliu111@gmail.com
+- 📫 How to reach me: x98liu@uwaterloo.ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a human.
 
