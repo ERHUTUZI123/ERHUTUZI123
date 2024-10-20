@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Xiaoyang Liu.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me: x98liu@uwaterloo.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a human.
 
 <!---
 ERHUTUZI123/ERHUTUZI123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
