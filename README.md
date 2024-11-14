@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xiaoyang Liu.
 - 📫 How to reach me: x98liu@uwaterloo.ca
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=435&lines=Coding;Thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&width=435&lines=Coding;Thinking)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,python,next)](https://skillicons.dev)
 <!---
