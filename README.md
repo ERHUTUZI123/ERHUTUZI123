@@ -2,6 +2,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,python,next,vite,tailwindcss)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!---
 ERHUTUZI123/ERHUTUZI123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
