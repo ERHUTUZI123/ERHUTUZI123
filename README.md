@@ -6,6 +6,23 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.<waka_34da2460-347b-494f-aca4-02a766b5da07> }}
+          GH_TOKEN: ${{ secrets.<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> }}
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!---
