@@ -1,12 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=435&lines=Xiaoyang+Liu;Mathematics+Student)](https://git.io/typing-svg)
-
-
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ERHUTUZI123&theme=meta-dark&hide_border=true&card_width=136&card_height=200&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!---
