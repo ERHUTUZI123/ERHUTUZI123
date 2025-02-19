@@ -6,7 +6,7 @@
 
 ****Frontend Stack****
 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,typescript,reactjs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,typescript,react,nextjs)](https://skillicons.dev)
 
 ****Machine Learning****
 
