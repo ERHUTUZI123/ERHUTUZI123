@@ -33,7 +33,9 @@ Hi there! I'm a first-year Mathematics student at the **University of Waterloo**
 
 ## Let's Connect! 🤝
 I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out or explore my repositories to see what I've been working on!
+
 Linkedin: https://www.linkedin.com/in/cedric-liu-a61aba334/
+
 Devpost: https://devpost.com/cedricliu111?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 Happy coding! 🚀
