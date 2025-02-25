@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=435&lines=刘+潇+阳;Software+Engineering+Student;Mathematics+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=435&lines=刘潇阳;Software+Engineering+Student;Mathematics+Student)](https://git.io/typing-svg)
 
 ****Backend Stack****
 
