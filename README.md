@@ -19,7 +19,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm a first-year Mathematics student at the **University of Waterloo** with a passion for app development, game development, machine learning and exploring many other innovative technologies. I thrive on solving complex problems and turning ideas into reality through code. 
+Hi there! I'm a second-year Statistics student at the **University of Waterloo** with a passion for app development, game development, machine learning and exploring many other innovative technologies. I thrive on solving complex problems and turning ideas into reality through code. 
 
 ## What I Do 💻
 - **Backend Development**: I have a strong foundation in backend development, building scalable and efficient systems.
