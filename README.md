@@ -1,4 +1,4 @@
-👋 Hi, I’m Cedric Liu
+# 👋 Hi, I’m Cedric Liu
 
 🎓 Mathematics (Statistics & Applied Math) @ University of Waterloo
 
