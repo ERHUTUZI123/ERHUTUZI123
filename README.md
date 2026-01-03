@@ -4,4 +4,4 @@
 
 💻 Software / ML / Robotics Engineer
 
-🚀 Interested in distributed systems, autonomy, and applied machine learning
+🚀 Interested in applied machine learning and distributed systems
