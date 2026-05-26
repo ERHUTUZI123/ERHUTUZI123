@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Cedric Liu
+Xiaoyang Liu
 
-🎓 Applied Mathematics with Scientific Computing and Scientific Machine Learning @ University of Waterloo
-
-💻 Software / ML / Robotics Engineer
-
-🚀 Interested in applied machine learning and distributed systems
+Currently URA at [University of Waterlo](https://rjmillerlab.github.io/labs/) and URA at [University of Toronto](https://ai.psychiatry.utoronto.ca/)
