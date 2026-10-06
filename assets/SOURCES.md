@@ -2,12 +2,19 @@
 
 The header and affiliation cards are original, static SVG artwork created for
 Xiaoyang Liu's profile. Each SVG is self-contained: no fonts, scripts, images or
-other assets are fetched from third-party services. The README uses GitHub-supported
-`picture` elements select artwork for the viewer's GitHub light or dark mode.
+other assets are fetched from third-party services. The README uses GitHub's
+`#gh-dark-mode-only` and `#gh-light-mode-only` theme fragments to select artwork
+for the viewer's current GitHub theme, including a manually selected theme.
+The fragments are applied to the wrapping links as well as the images: GitHub's
+theme styles hide the entire inactive link so it cannot leave a blank image row.
 All artwork has a transparent background, so it inherits the page's actual
 background, including dark theme variants. Text is bold white in dark mode and
 bold black in light mode, with Microsoft YaHei and system sans-serif fallbacks.
-This uses GitHub's [supported theme-context image feature](https://github.blog/changelog/2022-08-15-specify-theme-context-for-images-in-markdown-ga/).
+This uses GitHub's [theme-context image fragments](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/),
+which remain present in GitHub's current page styles. Unlike a plain browser
+`prefers-color-scheme` image query, these selectors use GitHub's `data-color-mode`
+setting; when GitHub follows the system theme, its styles use the corresponding
+light or dark media query.
 The affiliation destinations are preserved; the Waterloo role is Research Assistant.
 
 ## Huawei
