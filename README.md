@@ -3,9 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
   <img src="./assets/header-light.svg" alt="Xiaoyang Liu — Research profile" width="100%">
 </picture>
-
-Currently Research Intern at [Huawei Canada](https://consumer.huawei.com/ca/) and URA at [University of Waterloo](https://rjmillerlab.github.io/labs/).
-
 <a href="https://consumer.huawei.com/ca/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/huawei-dark.svg">
