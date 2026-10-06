@@ -3,9 +3,11 @@
 The header and affiliation cards are original, static SVG artwork created for
 Xiaoyang Liu's profile. Each SVG is self-contained: no fonts, scripts, images or
 other assets are fetched from third-party services. The README uses GitHub-supported
-`picture` elements retain light/dark compatibility. Both versions use the GitHub
-dark background (`#0D1117`) and bold white text, with Microsoft YaHei and system sans-serif
-fallbacks. The official reversed Waterloo logo stays legible in either theme.
+`picture` elements select artwork for the viewer's GitHub light or dark mode.
+All artwork has a transparent background, so it inherits the page's actual
+background, including dark theme variants. Text is bold white in dark mode and
+bold black in light mode, with Microsoft YaHei and system sans-serif fallbacks.
+This uses GitHub's [supported theme-context image feature](https://github.blog/changelog/2022-08-15-specify-theme-context-for-images-in-markdown-ga/).
 The affiliation destinations are preserved; the Waterloo role is Research Assistant.
 
 ## Huawei
@@ -23,6 +25,8 @@ The affiliation destinations are preserved; the Waterloo role is Research Assist
 - The full shield and wordmark retain their original colours, proportions and
   vector geometry, with clear space around the full logo. The standalone original
   is `logos/waterloo.svg`; the same geometry is embedded in both Waterloo cards.
+  In the light card, only the wordmark is set to black, an approved wordmark
+  colour in the guidelines; the shield and its white border remain unchanged.
 - [University logo guidelines](https://uwaterloo.ca/brand/how-express-our-brand/waterloo-logo)
   and [official logo downloads](https://uwaterloo.ca/brand/uw-logos/university-logos/all).
 
