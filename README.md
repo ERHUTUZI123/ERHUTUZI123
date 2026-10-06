@@ -15,7 +15,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/waterloo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/waterloo-light.svg">
-    <img src="./assets/waterloo-light.svg" alt="University of Waterloo logo — URA at University of Waterloo" width="100%">
+    <img src="./assets/waterloo-light.svg" alt="University of Waterloo logo — Research Assistant at University of Waterloo" width="100%">
   </picture>
 </a>
 
