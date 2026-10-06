@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="188" viewBox="0 0 840 188" role="img" aria-labelledby="title desc">
-  <title id="title">Xiaoyang Liu</title>
-  <desc id="desc">Research profile of Xiaoyang Liu.</desc>
+  <title id="title">Xiaoyang Liu 刘潇阳</title>
+  <desc id="desc">Xiaoyang Liu 刘潇阳.</desc>
   <rect width="840" height="188" rx="12" fill="#000000"/>
-  <text x="36" y="47" fill="#FFFFFF" font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700">RESEARCH / PROFILE</text>
-  <text x="33" y="112" fill="#FFFFFF" font-family="'Microsoft YaHei', 'Segoe UI', Arial, sans-serif" font-size="51" font-weight="700">Xiaoyang Liu</text>
+  <text x="33" y="112" fill="#FFFFFF" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Segoe UI', Arial, sans-serif" font-size="51" font-weight="700">Xiaoyang Liu 刘潇阳</text>
 </svg>
