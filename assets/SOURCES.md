@@ -3,8 +3,8 @@
 The header and affiliation cards are original, static SVG artwork created for
 Xiaoyang Liu's profile. Each SVG is self-contained: no fonts, scripts, images or
 other assets are fetched from third-party services. The README uses GitHub-supported
-`picture` elements retain light/dark compatibility. Both versions use a pure
-black background and bold white text, with Microsoft YaHei and system sans-serif
+`picture` elements retain light/dark compatibility. Both versions use the GitHub
+dark background (`#0D1117`) and bold white text, with Microsoft YaHei and system sans-serif
 fallbacks. The official reversed Waterloo logo stays legible in either theme.
 The affiliation destinations are preserved; the Waterloo role is Research Assistant.
 
