@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="188" viewBox="0 0 840 188" role="img" aria-labelledby="title desc">
+  <title id="title">Xiaoyang Liu</title>
+  <desc id="desc">Academic mini-CV. A restrained geometric pattern connects two research affiliations.</desc>
+  <rect width="840" height="188" rx="12" fill="#F7F8FA"/>
+  <g fill="none" stroke="#DFE5EC" stroke-width="1">
+    <path d="M603 36H792M603 76H792M603 116H792M603 156H792M632 28V164M672 28V164M712 28V164M752 28V164"/>
+    <path d="M632 116L672 76L712 116L752 36M632 116L672 156L712 116L752 156" stroke-width="1.5"/>
+    <circle cx="712" cy="116" r="32"/>
+  </g>
+  <circle cx="672" cy="76" r="5" fill="#E53935"/>
+  <circle cx="752" cy="156" r="5" fill="#FFD54F"/>
+  <circle cx="712" cy="116" r="4" fill="#64748B"/>
+  <text x="36" y="47" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">RESEARCH / PROFILE</text>
+  <text x="33" y="110" fill="#182536" font-family="Georgia, 'Times New Roman', serif" font-size="51" letter-spacing="-1">Xiaoyang Liu</text>
+  <path d="M36 145H86" stroke="#E53935" stroke-width="3"/>
+  <path d="M92 145H142" stroke="#FFD54F" stroke-width="3"/>
+  <path d="M150 145H548" stroke="#DFE5EC"/>
+</svg>
